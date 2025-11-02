@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Welcome to our amazing product demo"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "This revolutionary technology will change everything"
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "Don't miss out on this incredible opportunity"
+    }
+  ]
+}

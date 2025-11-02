@@ -1,0 +1,21 @@
+{
+  "language": "es",
+  "original_language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Bienvenido a nuestra increíble demostración de producto"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "Esta tecnología revolucionaria cambiará todo"
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "No te pierdas esta increíble oportunidad"
+    }
+  ]
+}
